@@ -5,3 +5,4 @@ scipy
 seaborn
 geopandas
 ipywidgets
+scikit-learn
